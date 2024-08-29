@@ -2,13 +2,12 @@
   - Contains the logic of merging overlapping/adjacent timeslots
 
 <H2>High Level  Logic</H2>
-The main goal of the program is to merge overlapping or adjacent time slots into single slots.
+The main goal of the program is to merge multiple overlapping or adjacent time slots into single slots.
 The program uses the MergeSlots method to accomplish this.
 
 <H3>Inside the MergeSlots Method:</H3>
 Input: The method takes a list of time slots as input.
 Output: It returns a new list of merged time slots.
-Here's how the merging works:
 
 <h4>Step 1</h4>
 If the input list of time slots is empty, the method returns an empty list.
