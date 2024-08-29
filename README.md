@@ -1,4 +1,4 @@
-<h1>File --> TimeSlotsMerger.cs</h1> 
+<h1>Folder: MergeTimeSlots_Solution, File --> TimeSlotsMerger.cs </h1> 
   - Contains the logic of merging overlapping/adjacent timeslots
 
 <H2>High Level  Logic</H2>
